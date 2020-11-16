@@ -606,3 +606,8 @@ sideBarIconFgActive: #5eb5f7; // filters side bar active item icon
 sideBarBadgeBg: #5eb5f7; // filters side bar badge background
 sideBarBadgeBgMuted: #8393a3; // filters side bar unimportant badge background
 sideBarBadgeFg: #ffffff; // filters side bar badge text
+
+daladnoPrimary: #ffab00; // Daladno theme primary orange
+daladnoPrimaryDark: #ff8f00; // Daladno theme primary orange dark
+daladnoAccent: #00bfa5; // Daladno theme accent teal
+daladnoAccentDark: #008e76; // Daladno theme accent teal dark
